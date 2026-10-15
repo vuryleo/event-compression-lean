@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this formalization, please cite it as below."
+title: "Lean formalization: An O(n log n) algorithm for the open vehicle scheduling problem on a line with release times"
+authors:
+  - family-names: Hu
+    given-names: Bo
+  - family-names: Liu
+    given-names: Xiaoyu
+    email: i@vuryleo.com
+version: 1.0.0
+date-released: 2026-10-15
+license: Apache-2.0
+keywords:
+  - Lean 4
+  - formal verification
+  - vehicle scheduling
+  - release times
+  - TSP on the line

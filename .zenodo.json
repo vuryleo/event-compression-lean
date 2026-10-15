@@ -1,0 +1,11 @@
+{
+  "title": "Lean formalization: An O(n log n) algorithm for the open vehicle scheduling problem on a line with release times",
+  "upload_type": "software",
+  "description": "Lean 4 formalization accompanying the paper by Bo Hu and Xiaoyu Liu. It proves that the event-driven algorithm returns the minimum finish time for every input, that its main loop halts within 8m+10 iterations, and that the loop costs O(m log m) in the standard cost model, under every tie-breaking rule among queue minima.",
+  "creators": [
+    {"name": "Hu, Bo"},
+    {"name": "Liu, Xiaoyu"}
+  ],
+  "license": "Apache-2.0",
+  "keywords": ["Lean 4", "formal verification", "vehicle scheduling", "release times", "TSP on the line"]
+}
