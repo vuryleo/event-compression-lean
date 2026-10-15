@@ -1,5 +1,7 @@
 # Lean formalization: event compression for vehicle scheduling on a line
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23391481.svg)](https://doi.org/10.5281/zenodo.23391481)
+
 This repository is the Lean 4 formalization accompanying the paper
 
 > Bo Hu and Xiaoyu Liu. *An O(n log n) Algorithm for the Open Vehicle
