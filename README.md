@@ -6,7 +6,7 @@ This repository is the Lean 4 formalization accompanying the paper
 
 > Bo Hu and Xiaoyu Liu. *An O(n log n) Algorithm for the Open Vehicle
 > Scheduling Problem on a Line with Release Times, with a Machine-Checked
-> Proof.* 2026.
+> Proof.* 2026. [doi:10.5281/zenodo.23561084](https://doi.org/10.5281/zenodo.23561084)
 
 A vehicle moves at unit speed on a line, starting at `s` at time `0`. Each
 request at a real position must be visited no earlier than its release time.

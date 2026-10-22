@@ -17,3 +17,13 @@ keywords:
   - vehicle scheduling
   - release times
   - TSP on the line
+references:
+  - type: article
+    title: "An O(n log n) Algorithm for the Open Vehicle Scheduling Problem on a Line with Release Times, with a Machine-Checked Proof"
+    authors:
+      - family-names: Hu
+        given-names: Bo
+      - family-names: Liu
+        given-names: Xiaoyu
+    year: 2026
+    doi: 10.5281/zenodo.23561084
